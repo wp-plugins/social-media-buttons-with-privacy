@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: tas2580
-Donate link: https://tas2580.net/
+Donate link: https://tas2580.net/downloads/download-1.html
 Tags: content, social media, share buttons
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.0.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,13 +12,14 @@ Adds Social Media Buttons on each post.
 
 == Description ==
 
-Adds Social Media Buttons on each post. To protect the privacy of the users, requestets at the Social Media platforms will made by the web server. The data will be cached for one hour to avoid too many requests.
+Adds Social Media Buttons on each post. To protect the privacy of the users, requestets at the Social Media platforms 
+will made by the web server. The data will be cached for one hour to avoid too many requests.
 
 = Supported Platforms =
-*Facebook
-*Twitter
-*Google+
-*Linkedin
+* Facebook
+* Twitter
+* Google+
+* Linkedin
 
 == Installation ==
 
@@ -32,6 +33,8 @@ e.g.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * First release
 
+= 1.0.1 =
+* Updated readme.txt
