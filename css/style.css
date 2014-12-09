@@ -21,27 +21,27 @@
 {
 	background-position:0 -28px;
 }
-.socialmedia3
+.socialmedia2
 {
 	background-position:-28px 0;
 }
-.socialmedia3:hover
+.socialmedia2:hover
 {
 	background-position:-28px -28px;
 }
-.socialmedia2
+.socialmedia4
 {
 	background-position:-56px 0;
 }
-.socialmedia2:hover
+.socialmedia4:hover
 {
 	background-position:-56px -28px;
 }
-.socialmedia4
+.socialmedia3
 {
 	background-position:-84px 0px;
 }
-.socialmedia4:hover
+.socialmedia3:hover
 {
 	background-position:-84px -28px;
 }
@@ -82,4 +82,3 @@
 	border-width:5px;
 	margin-top:-5px;
 }
-

@@ -38,3 +38,6 @@ e.g.
 
 = 1.0.1 =
 * Updated readme.txt
+
+= 1.1.0 =
+* Added adminmodule to configure used platforms and cachetime
