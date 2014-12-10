@@ -1,19 +1,22 @@
-=== Plugin Name ===
+=== tas2580 Social Media Buttons ===
 Contributors: tas2580
 Donate link: https://tas2580.net/downloads/download-1.html
-Tags: content, social media, share buttons
+Tags: content, social media, share button, social network icon, socialmedia, privacy
 Requires at least: 3.0.1
 Tested up to: 4.0.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds Social Media Buttons on each post.
+Adds social media buttons on each post. To protect privacy, the requests to get the number of shares will 
+be made by the web server.
 
 == Description ==
 
-Adds Social Media Buttons on each post. To protect the privacy of the users, requestets at the Social Media platforms 
-will made by the web server. The data will be cached for one hour to avoid too many requests.
+Adds social media buttons on each post, the buttons allwos your visitors to share the post on social media
+platforms. To protect the privacy of the users, requestets at the social media platforms to get the number 
+of shares will made by the web server. To avoid too many requests at the social media platforms you can
+cache the requested data.
 
 = Supported Platforms =
 * Facebook
@@ -21,11 +24,13 @@ will made by the web server. The data will be cached for one hour to avoid too m
 * Google+
 * Linkedin
 
+== Screenshots ==
+
+1. Buttons under a post
+2. Social Media Buttons settings
+
+
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload `private_socialmedia` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
@@ -33,11 +38,19 @@ e.g.
 
 == Changelog ==
 
-= 1.0.0 =
-* First release
-
-= 1.0.1 =
-* Updated readme.txt
+= 1.1.1 =
+Release Date: December 10, 2011
+* Enhancement: Added german translation
+* Bug Fix: Send URLs through urlencode()
 
 = 1.1.0 =
-* Added adminmodule to configure used platforms and cachetime
+Release Date: December 9, 2011
+* Enhancement: Added admin module to configure used platforms and cache time
+
+= 1.0.1 =
+Release Date: December 7, 2011
+* Bug Fix: Updated readme.txt
+
+= 1.0.0 =
+Release Date: December 7, 2011
+* Initial release

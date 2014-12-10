@@ -1,0 +1,38 @@
+msgid "Social Media Buttons"
+msgstr "Social Media Buttons"
+
+msgid "Select the platforms you want to use and set the cache time."
+msgstr "Wähle die Platformen die du verwenden möchtest und stelle die Zeit ein für die Daten gecached werden sollen."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Choose platforms"
+msgstr "Wähle Platformen"
+
+msgid "Cachetime"
+msgstr "Cachezeit"
+
+msgid "Seconds"
+msgstr "Sekunden"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Hours"
+msgstr "Stunden"
+
+msgid "Social Media"
+msgstr "Soziale Medien"
+
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+msgid "Share on Google+"
+msgstr "Auf Google+ teilen"
+
+msgid "Share on Linkedin"
+msgstr "Auf Linkedin teilen"
