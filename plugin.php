@@ -3,7 +3,7 @@
 Plugin Name: Social Media with privacy
 Plugin URI: https://tas2580.net/downloads/download-1.html
 Description: Adds Social Media Bottons to each post
-Version: 1.1.0
+Version: 1.1.1
 Author: tas2580
 Author URI: https://tas2580.net
 License: GPLv2
